@@ -1,6 +1,12 @@
 # Modern-Money-Expense-Manager-App
 Complex money manager system for both android and ios.
 
+
+![1](https://user-images.githubusercontent.com/80895946/205438143-3dbee707-a71c-4ab7-9561-840e73709817.png)
+![1](https://user-images.githubusercontent.com/80895946/205438150-c3b64266-6a7c-4744-b8dd-4f6aebded1d3.png)
+![3](https://user-images.githubusercontent.com/80895946/205438151-5ed09d7f-abdf-40c4-84f5-ca02f5e9b79b.png)
+
+
 ![banner](https://user-images.githubusercontent.com/80895946/202844486-df26436d-9dc5-4869-a713-fdaa57cfab68.png)
 ![1](https://user-images.githubusercontent.com/80895946/202844491-986cb747-a744-4cb9-8aac-05417677dfde.png)
 ![2](https://user-images.githubusercontent.com/80895946/202844494-6860a4c3-d1a7-49f2-a13e-53fb1f4e957c.png)
