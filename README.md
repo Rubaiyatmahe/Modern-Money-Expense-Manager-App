@@ -3,7 +3,8 @@ Complex money manager system for both android and ios.
 
 
 ![1](https://user-images.githubusercontent.com/80895946/205438143-3dbee707-a71c-4ab7-9561-840e73709817.png)
-![1](https://user-images.githubusercontent.com/80895946/205438150-c3b64266-6a7c-4744-b8dd-4f6aebded1d3.png)
+![2](https://user-images.githubusercontent.com/80895946/205438236-583905b7-626b-48b0-9fb1-b2fb77db8eee.png)
+
 ![3](https://user-images.githubusercontent.com/80895946/205438151-5ed09d7f-abdf-40c4-84f5-ca02f5e9b79b.png)
 
 
